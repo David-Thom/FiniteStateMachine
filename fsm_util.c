@@ -1,9 +1,4 @@
-/*
-Name: <Thompson, Diekololaoluwa>
-NSID: <scb597>
-Student NumberL <11351837>
-Course: CMPT214 -<02> 2025
-*/
+
 
 #include <stdio.h>
 #include <string.h>
